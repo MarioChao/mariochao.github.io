@@ -1,17 +1,35 @@
+.html_page {
+    padding-left: 5px;
+}
 .pages {
-    border-width: 0px;
-    border-top-color: #505050;
-    border-top-width: 2px;
-    border-style: solid;
-    padding-top: 10px;
+    padding-top: 5px;
 }
 .sections {
     background-color: #f2eab1;
+    padding-left: 5px;
 }
 .section_heading {
     font-weight: bold;
     font-size: larger;
 }
 .list_heading {
+    font-weight: bold;
     font-size: large;
+}
+/* Thanks to w3schools */
+.hide_bar::-webkit-scrollbar {
+    display:none;
+}
+.hidebar {
+    -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+h1 {
+    text-align: center;
+}
+h1:hover {
+    color: #0000c0;
+}
+p:hover {
+    color: #c00000;
 }
