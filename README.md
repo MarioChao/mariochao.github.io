@@ -1,4 +1,4 @@
 # Good job!
-You found mariochao.github.io!
+You found my github domain!
 ## Main webs
 - [Went To School](wenttoschool/index.html)
