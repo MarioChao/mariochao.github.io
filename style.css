@@ -1,0 +1,17 @@
+.pages {
+    border-width: 0px;
+    border-top-color: #000000;
+    border-top-width: 2px;
+    border-style: solid;
+    padding-top: 10px;
+}
+.sections {
+    background-color: #f2eab1;
+}
+.section_heading {
+    font-weight: bold;
+    font-size: larger;
+}
+.list_heading {
+    font-size: large;
+}
