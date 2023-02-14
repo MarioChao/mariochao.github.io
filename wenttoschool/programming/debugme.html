@@ -1,16 +1,16 @@
 <!DOCTYPE html>
 <!-- Hello -->
-<html class = "html_page" style = "background-color: #ffffff;">
+<html class="html_page" style="background-color: #ffffff;">
     <head>
         <title>Fix</title>
         <h1>Debugging Intro</h1>
         <hr>
-        <link href = "../../style.css" rel = "stylesheet" type = "text/css">
+        <link href="../../style.css" rel="stylesheet" type="text/css">
     </head>
     <body>
-        <div class = "pages" style = "text-align: center;">
-            <div class = "sections">
-                <p class = "section_heading">What is debugging?</p>
+        <div class="pages" style="text-align: center;">
+            <div class="sections">
+                <p class="section_heading">What is debugging?</p>
                 <p>
                     Debugging is the process in which programmers fix their code to make it work as intended.<br>
                     To debug, programmers often print out variable contents before and after some calculations.
@@ -18,9 +18,9 @@
             </div>
             <br>
             <p>Here is an efficient method I use to debug.</p>
-            <div class = "sections">
-                <p class = "section_heading">Make and Utilize Comments</p>
-                <pre style = "text-align: left; margin-left: 30%; background-color: blanchedalmond; width: 40%">
+            <div class="sections">
+                <p class="section_heading">Make and Utilize Comments</p>
+                <pre style="text-align: left; margin-left: 30%; background-color: blanchedalmond; width: 40%">
                     // Input        (take user input)
 
                     // Process      (use the input to perform actions)
@@ -37,21 +37,21 @@
                     When other programmers look at your code, they will understand the code faster and maybe help you fix the problem quicker!
                 </p>
                 <br>
-                <p class = "section_heading">Utilizing Comments</p>
+                <p class="section_heading">Utilizing Comments</p>
                 <p>
                     Sometimes, you might struggle with finding the error in your code.<br>
                     In such situations, printing out your variables or arrays before and after some calculations will help you locate where the error is coming from.
                 </p>
-                <pre style = "text-align: left; margin-left: 30%; background-color: blanchedalmond; width: 40%">
+                <pre style="text-align: left; margin-left: 30%; background-color: blanchedalmond; width: 40%">
                     for (int i = 0; i < n; i++) {
-                        for (int j = n - i - 1; j >= 0; j<span style = "color: red;">++</span>) {
+                        for (int j = n - i - 1; j >= 0; j<span style="color: red;">++</span>) {
                             // ... code here
                         }
                     }
                 </pre>
                 <p>
                     If there is a Runtime Error or a Time-Limit-Exceeded Error, commenting out a line or multiple lines can help you determine the cause of the error.<br>
-                    In the code above, the j<span style = "color: red;">++</span> makes the for-loop run forever, resulting in a Time-Limit-Exceeded Error.<br>
+                    In the code above, the j<span style="color: red;">++</span> makes the for-loop run forever, resulting in a Time-Limit-Exceeded Error.<br>
                     Once that for-loop block is commented, the code runs smoothly, tellling us that the error is somewhere in this for-loop.
                 </p>
             </div>
