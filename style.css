@@ -33,3 +33,12 @@ h1:hover {
 p:hover {
     color: #c00000;
 }
+span:hover {
+    color: #c00000;
+}
+li:hover {
+    color: #008080;
+}
+summary:hover {
+    color: #008000;
+}
