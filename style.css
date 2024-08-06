@@ -39,6 +39,9 @@ span:hover {
 li:hover {
     color: #008080;
 }
+ul li ul li:hover {
+    color: #d08000;
+}
 summary:hover {
     color: #008000;
 }
