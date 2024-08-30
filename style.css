@@ -1,47 +1,47 @@
 .html_page {
-    padding-left: 5px;
+	padding-left: 5px;
 }
 .pages {
-    padding-top: 5px;
+	padding-top: 5px;
 }
 .sections {
-    background-color: #f2eab1;
-    padding-left: 5px;
+	background-color: #f2eab1;
+	padding-left: 5px;
 }
 .section_heading {
-    font-weight: bold;
-    font-size: larger;
+	font-weight: bold;
+	font-size: larger;
 }
 .list_heading {
-    font-weight: bold;
-    font-size: large;
+	font-weight: bold;
+	font-size: large;
 }
 /* Thanks to w3schools */
 .hide_bar::-webkit-scrollbar {
-    display:none;
+	display:none;
 }
 .hidebar {
-    -ms-overflow-style: none;  /* IE and Edge */
-  scrollbar-width: none;  /* Firefox */
+	-ms-overflow-style: none;  /* IE and Edge */
+	scrollbar-width: none;  /* Firefox */
 }
 h1 {
-    text-align: center;
+	text-align: center;
 }
 h1:hover {
-    color: #0000c0;
+	color: #0000c0;
 }
 p:hover {
-    color: #c00000;
+	color: #c00000;
 }
 span:hover {
-    color: #c00000;
+	color: #c00000;
 }
 li:hover {
-    color: #008080;
+	color: #008080;
 }
 ul li ul li:hover {
-    color: #d08000;
+	color: #d08000;
 }
 summary:hover {
-    color: #008000;
+	color: #008000;
 }
