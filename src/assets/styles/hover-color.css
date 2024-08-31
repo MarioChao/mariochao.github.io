@@ -1,6 +1,8 @@
-.html_page {
+/* Classes */
+.html-page {
 	padding-left: 5px;
 }
+
 .pages {
 	padding-top: 5px;
 }
@@ -8,25 +10,30 @@
 	background-color: #f2eab1;
 	padding-left: 5px;
 }
-.section_heading {
+.section-heading {
 	font-weight: bold;
 	font-size: larger;
 }
-.list_heading {
+.list-heading {
 	font-weight: bold;
 	font-size: large;
 }
+
 /* Thanks to w3schools */
-.hide_bar::-webkit-scrollbar {
+.hide-bar::-webkit-scrollbar {
 	display:none;
 }
-.hidebar {
+.hide-bar {
 	-ms-overflow-style: none;  /* IE and Edge */
 	scrollbar-width: none;  /* Firefox */
 }
+
+/* HTML elements */
 h1 {
 	text-align: center;
 }
+
+/* Hover */
 h1:hover {
 	color: #0000c0;
 }
@@ -45,3 +52,4 @@ ul li ul li:hover {
 summary:hover {
 	color: #008000;
 }
+
