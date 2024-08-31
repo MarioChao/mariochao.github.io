@@ -8,6 +8,7 @@ function initializeFont() {
 	document.body.style.fontFamily = "'PT Serif'";
 	document.body.style.transition = "all 2000ms";
 	document.body.style.backgroundBlendMode = "lighten";
+	document.body.style.backgroundRepeat = "no-repeat";
 	fadeElements.setBackgroundColor("lightblue", "rgba(173, 216, 230, 0)");
 }
 
