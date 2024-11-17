@@ -1,7 +1,5 @@
 # **Mario Chao**
 
-\+886 912-851-058  
-az0112mario@gmail.com  
 [https://mariochao.github.io](https://mariochao.github.io)
 
 # **Skills**
