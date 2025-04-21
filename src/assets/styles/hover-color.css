@@ -1,46 +1,8 @@
-/* Classes */
-.html-page {
-	padding-left: 5px;
-}
-
-.pages {
-	padding-top: 5px;
-}
-.sections {
-	background-color: #f2eab1;
-	padding-left: 5px;
-}
-.section-heading {
-	font-weight: bold;
-	font-size: larger;
-}
-.list-heading {
-	font-weight: bold;
-	font-size: large;
-}
-
-/* Thanks to w3schools */
-.hide-bar::-webkit-scrollbar {
-	display:none;
-}
-.hide-bar {
-	-ms-overflow-style: none;  /* IE and Edge */
-	scrollbar-width: none;  /* Firefox */
-}
-
-/* HTML elements */
-h1 {
-	text-align: center;
-}
-
 /* Hover */
 h1:hover {
 	color: #0000c0;
 }
-p:hover {
-	color: #c00000;
-}
-span:hover {
+p:hover, span:hover {
 	color: #c00000;
 }
 li:hover {
@@ -52,4 +14,3 @@ ul li ul li:hover {
 summary:hover {
 	color: #008000;
 }
-

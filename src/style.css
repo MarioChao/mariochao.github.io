@@ -1,3 +1,5 @@
 @import url(/src/assets/styles/general.css);
-@import url(/src/assets/styles/hover-color.css);
+@import url(/src/assets/styles/layout.css);
 @import url(/src/assets/styles/flex.css);
+@import url(/src/assets/styles/hover-color.css);
+@import url(/src/assets/styles/link-color.css);

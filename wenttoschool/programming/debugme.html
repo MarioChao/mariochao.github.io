@@ -21,14 +21,15 @@
 			<p>Here is an efficient method I use to debug.</p>
 			<div class="sections">
 				<p class="section-heading">Make and Utilize Comments</p>
-				<pre style="text-align: left; margin-left: 30%; background-color: blanchedalmond; width: 40%">
-					// Input        (take user input)
+				<pre style="text-align: left; margin-left: 25%; background-color: blanchedalmond; width: 50%">
+// Input        (take user input)
 
-					// Process      (use the input to perform actions)
-					//  Action 1
-					//  Action 2
+// Process      (use the input to perform actions)
+//  Action 1
+//  Action 2
 
-					// Output       (print the result)</pre>
+// Output       (print the result)
+				</pre>
 				<p>
 					I use the outline above for most of my programs in competitive programming.<br>
 					What makes this outline good are the comments that organize your code neatly.
@@ -43,12 +44,12 @@
 					Sometimes, you might struggle with finding the error in your code.<br>
 					In such situations, printing out your variables or arrays before and after some calculations will help you locate where the error is coming from.
 				</p>
-				<pre style="text-align: left; margin-left: 30%; background-color: blanchedalmond; width: 40%">
-					for (int i = 0; i < n; i++) {
-						for (int j = n - i - 1; j >= 0; j<span style="color: red;">++</span>) {
-							// ... code here
-						}
-					}
+				<pre style="text-align: left; margin-left: 25%; background-color: blanchedalmond; width: 50%">
+for (int i = 0; i < n; i++) {
+	for (int j = n - i - 1; j >= 0; j<span style="color: red;">++</span>) {
+		// ... code here
+	}
+}
 				</pre>
 				<p>
 					If there is a Runtime Error or a Time-Limit-Exceeded Error, commenting out a line or multiple lines can help you determine the cause of the error.<br>
