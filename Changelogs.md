@@ -1,5 +1,15 @@
 # Changelogs
 
+## [v1.3.1] Text typewriter project | 2026/05/07
+
+Added the [TextTypewriter](https://github.com/MarioChao/text-typewriter) module.
+
+Added "pie hiking" to the frameworks section.
+
+Added space to initially PascalCase modules.
+
+Updated `sitemap.txt` to include the grading tool.
+
 ## [v1.3.0] Grading + Roblox projects | 2026/04/21
 
 Added web app [Checklist Grading Tool](https://mariochao.github.io/grading/).
