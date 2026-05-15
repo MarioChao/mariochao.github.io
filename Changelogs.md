@@ -1,5 +1,14 @@
 # Changelogs
 
+## [v1.3.2] Removed "frameworks" + Container projects | 2026/05/07
+
+Combined the frameworks section with the modules section.
+- Removed "pie hiking" from these sections.
+
+Added new projects:
+- [ContainerMechanic](https://github.com/MarioChao/container-mechanic) module.
+- [ContainerEvent](https://github.com/MarioChao/container-event) module.
+
 ## [v1.3.1] Text typewriter project | 2026/05/07
 
 Added the [TextTypewriter](https://github.com/MarioChao/text-typewriter) module.
