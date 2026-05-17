@@ -1,5 +1,13 @@
 # Changelogs
 
+## [v1.3.3] Container mechanic links + Dialog framework project | 2026/05/16
+
+Added link to `ContainerMechanic`'s
+[devforum post](https://devforum.roblox.com/t/containermechanic-create-and-manage-mechanisms-easily/4638837) and
+[Roblox model](https://create.roblox.com/store/asset/123627200496611/ContainerMechanic).
+
+Added the [Dreamer's Dialog System Framework](https://github.com/MarioChao/dreamers-dialog-system-framework) project.
+
 ## [v1.3.2] Removed "frameworks" + Container projects | 2026/05/07
 
 Combined the frameworks section with the modules section.
