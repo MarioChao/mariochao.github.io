@@ -1,5 +1,15 @@
 # Changelogs
 
+## [v1.3.4] Client movement detector + Priority zone group | 2026/06/29
+
+Added [Client Movement Detector](https://github.com/MarioChao/client-movement-detector) and [Priority Zone Group](https://github.com/MarioChao/priority-zone-group) to the modules section.
+
+Moved [Backpack UI](https://github.com/MarioChao/backpack-ui) to the modules section.
+
+Fixed GitHub link for [Spatial Query](https://wally.run/package/anytrio/spatial-query).
+
+Added WIP label for 2D Voting Screen.
+
 ## [v1.3.3] Container mechanic links + Dialog framework project | 2026/05/16
 
 Added link to `ContainerMechanic`'s
