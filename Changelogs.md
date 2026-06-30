@@ -1,5 +1,9 @@
 # Changelogs
 
+## [v1.3.5] Morning peeps, twilight sleeps | 2026/06/30
+
+Updated "my path to strive" to "morning peeps, twilight sleeps".
+
 ## [v1.3.4] Client movement detector + Priority zone group | 2026/06/29
 
 Added [Client Movement Detector](https://github.com/MarioChao/client-movement-detector) and [Priority Zone Group](https://github.com/MarioChao/priority-zone-group) to the modules section.
