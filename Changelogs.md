@@ -1,5 +1,11 @@
 # Changelogs
 
+## [v1.3.6] Zipline transport + Pyjail math | 2026/08/05
+
+Updated [Zipline Transportation System](https://github.com/MarioChao/zipline-transportation-system) links.
+
+Added [Pyjail Math](https://github.com/MarioChao/pyjail-math) to Python packages.
+
 ## [v1.3.5] Morning peeps, twilight sleeps | 2026/06/30
 
 Updated "my path to strive" to "morning peeps, twilight sleeps".
