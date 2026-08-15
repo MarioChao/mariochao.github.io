@@ -1,5 +1,11 @@
 # Changelogs
 
+## [v1.3.7] Scoped collection + Leaderboard script | 2026/08/15
+
+Added [Scoped Collection](https://github.com/MarioChao/scoped-collection) to Roblox modules.
+
+Added [Leaderboard script](https://create.roblox.com/store/asset/81850811278394/Leaderboard-Repose-Studs) to other models.
+
 ## [v1.3.6] Zipline transport + Pyjail math | 2026/08/05
 
 Updated [Zipline Transportation System](https://github.com/MarioChao/zipline-transportation-system) links.
