@@ -1,5 +1,11 @@
 # Changelogs
 
+## [v1.3.8] Preset starter gui + Modules reordered | 2026/08/20
+
+Added [Preset Starter Gui](https://github.com/MarioChao/preset-starter-gui) to Roblox modules.
+
+Reordered Roblox modules lexicographically.
+
 ## [v1.3.7] Scoped collection + Leaderboard script | 2026/08/15
 
 Added [Scoped Collection](https://github.com/MarioChao/scoped-collection) to Roblox modules.
