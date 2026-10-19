@@ -1,5 +1,11 @@
 # Changelogs
 
+## [v1.3.9] Analyzers + panicks28.day | 2026/10/18
+
+Added the [analyzers](https://mariochao.github.io/analyzers/) web app.
+
+Added [panicks28.day](https://panicks28.day/) and [Grid of Chars](https://panicks28.day/tools/grid-of-chars/) to "other projects".
+
 ## [v1.3.8] Preset starter gui + Modules reordered | 2026/08/20
 
 Added [Preset Starter Gui](https://github.com/MarioChao/preset-starter-gui) to Roblox modules.
