@@ -1,5 +1,12 @@
 # Changelogs
 
+## [v1.3.10] Load modules by script | 2026/10/21
+
+The Luau modules are now loaded using a javascript code that reads from JSON.
+- Now displayed in both list form and tabular form.
+
+Added [devforum link](https://devforum.roblox.com/t/4941570) for Client Movement Detector.
+
 ## [v1.3.9] Analyzers + panicks28.day | 2026/10/18
 
 Added the [analyzers](https://mariochao.github.io/analyzers/) web app.

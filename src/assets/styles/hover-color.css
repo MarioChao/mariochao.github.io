@@ -14,9 +14,15 @@ ul li ul li:hover {
 summary:hover {
 	color: #008000;
 }
+ul li ul details:hover {
+	color: #008080;
+}
 ul li ul summary:hover {
 	color: #d08000;
 }
-ul li ul details:hover {
-	color: #008080;
+ul li ul details th:hover {
+	color: #d08000;
+}
+ul li ul details td:hover {
+	color: #d08000;
 }

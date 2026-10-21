@@ -1,0 +1,117 @@
+[
+    {
+        "name": "(wip) 2D Voting Screen",
+        "Roblox": "https://create.roblox.com/store/asset/121105125706609/2D-Voting-Screen-Voting-System",
+        "Wally": "https://wally.run/package/mariochao/voting-screen"
+    },
+    {
+        "name": "Anirio Table",
+        "DevForum": "https://devforum.roblox.com/t/aniriotable-comprehensive-optimized-array/4006873",
+        "GitHub": "https://github.com/AnyTrio/AnirioUtility/blob/master/src/AnirioReplicated/AnirioTable/init.luau",
+        "Roblox": "https://create.roblox.com/store/asset/136577821802550/AnirioTable",
+        "Wally": "https://wally.run/package/anytrio/anirio-table"
+    },
+    {
+        "name": "Backpack UI",
+        "GitHub": "https://github.com/MarioChao/backpack-ui",
+        "Roblox": "https://create.roblox.com/store/asset/130840760718569/Custom-BackpackUI",
+        "Wally": "https://wally.run/package/mariochao/backpack-ui"
+    },
+    {
+        "name": "Badge Util",
+        "DevForum": "https://devforum.roblox.com/t/badgeutil-efficient-and-optimized-badge-operations/4140491",
+        "GitHub": "https://github.com/MarioChao/badge-util",
+        "Roblox": "https://create.roblox.com/store/asset/135419476607725/BadgeUtil",
+        "Wally": "https://wally.run/package/mariochao/badge-util"
+    },
+    {
+        "name": "Beloved Remote",
+        "GitHub": "https://github.com/MarioChao/beloved-remote",
+        "Roblox": "https://create.roblox.com/store/asset/88416599218230/BelovedRemote",
+        "Wally": "https://wally.run/package/mariochao/beloved-remote"
+    },
+    {
+        "name": "Chaser Creatures",
+        "Demo": "https://www.roblox.com/games/116374121423491/Slateman-Obby"
+    },
+    {
+        "name": "Client Movement Detector",
+        "DevForum": "https://devforum.roblox.com/t/clientmovementdetector-cross-platform-detection-for-jumps-and-movements/4941570",
+        "GitHub": "https://github.com/MarioChao/client-movement-detector",
+        "Roblox": "https://create.roblox.com/store/asset/123613155007109/ClientMovementDetector",
+        "Wally": "https://wally.run/package/mariochao/client-movement-detector"
+    },
+    {
+        "name": "Container Event",
+        "GitHub": "https://github.com/MarioChao/container-event",
+        "Wally": "https://wally.run/package/mariochao/container-event"
+    },
+    {
+        "name": "Container Mechanic",
+        "DevForum": "https://devforum.roblox.com/t/containermechanic-create-and-manage-mechanisms-easily/4638837",
+        "GitHub": "https://github.com/MarioChao/container-mechanic",
+        "Roblox": "https://create.roblox.com/store/asset/123627200496611/ContainerMechanic",
+        "Wally": "https://wally.run/package/mariochao/container-mechanic"
+    },
+    {
+        "name": "Data Store Reader",
+        "GitHub": "https://github.com/MarioChao/data-store-reader",
+        "Wally": "https://wally.run/package/mariochao/data-store-reader"
+    },
+    {
+        "name": "Dreamer's Dialog System",
+        "GitHub": "https://github.com/MarioChao/dreamers-dialog-system"
+    },
+    {
+        "name": "Dreamer's Dialog System Framework",
+        "GitHub": "https://github.com/MarioChao/dreamers-dialog-system-framework"
+    },
+    {
+        "name": "Preset Starter Gui",
+        "GitHub": "https://github.com/MarioChao/preset-starter-gui",
+        "Wally": "https://wally.run/package/mariochao/preset-starter-gui"
+    },
+    {
+        "name": "Priority Zone Group",
+        "GitHub": "https://github.com/MarioChao/priority-zone-group",
+        "Wally": "https://wally.run/package/mariochao/priority-zone-group"
+    },
+    {
+        "name": "Purple Coins Challenge",
+        "Demo": "https://www.roblox.com/games/13205429133/",
+        "GitHub": "https://github.com/MarioChao/purple-coins-challenge"
+    },
+    {
+        "name": "Scoped Collection",
+        "GitHub": "https://github.com/MarioChao/scoped-collection",
+        "Roblox": "https://create.roblox.com/store/asset/124528202406990/ScopedCollection",
+        "Wally": "https://wally.run/package/mariochao/scoped-collection"
+    },
+    {
+        "name": "Segmented Route",
+        "GitHub": "https://github.com/MarioChao/segmented-route",
+        "Wally": "https://wally.run/package/mariochao/segmented-route"
+    },
+    {
+        "name": "Spatial Query",
+        "GitHub": "https://github.com/AnyTrio/AnirioUtility/blob/master/src/AnirioReplicated/SpatialQuery/SpatialQuery/init.luau",
+        "Roblox": "https://create.roblox.com/store/asset/95624391882778/SpatialQuery",
+        "Wally": "https://wally.run/package/anytrio/spatial-query"
+    },
+    {
+        "name": "Text Typewriter",
+        "GitHub": "https://github.com/MarioChao/text-typewriter",
+        "Roblox": "https://create.roblox.com/store/asset/75510314997529/TextTypewriter",
+        "Wally": "https://wally.run/package/mariochao/text-typewriter"
+    },
+    {
+        "name": "UI Util",
+        "GitHub": "https://github.com/MarioChao/awesome-scripts-dump",
+        "Wally": "https://wally.run/package/mariochao/ui-util"
+    },
+    {
+        "name": "Zipline Transportation System",
+        "GitHub": "https://github.com/MarioChao/zipline-transportation-system",
+        "Wally": "https://wally.run/package/mariochao/zipline-transportation-system"
+    }
+]
